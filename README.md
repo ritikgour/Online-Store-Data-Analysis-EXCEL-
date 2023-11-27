@@ -1,4 +1,4 @@
-# Online-Store-Data-Analysis-EXCEL-
+# Online-Store-Data-Analysis-(EXCEL)-
 The online store wants to create an annual sales report for 2022. This way, stores can understand their customers and drive more sales in 2023.
 
 
